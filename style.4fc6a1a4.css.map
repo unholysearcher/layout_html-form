@@ -1,0 +1,1 @@
+{"version":3,"sources":["style.css"],"names":[],"mappings":"AAAA,+BACE,aAAc,CACd,kBACF,CAEA,MACE,oBACF,CAEA,SACE,kBACF","file":"style.4fc6a1a4.css","sourceRoot":"../src","sourcesContent":[".mainLabels:not(:last-of-type) {\n  display: block;\n  margin-bottom: 10px;\n}\n\ninput {\n  display: inline-block;\n}\n\nfieldset {\n  margin-bottom: 20px;\n}\n"]}
